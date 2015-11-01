@@ -1,0 +1,26 @@
+{
+  "name": "app-init",
+  "description": "A wicked-fast start for Angular 1.x prototypes and apps.",
+  "main": "gulpfile.js",
+  "moduleType": [],
+  "authors": [
+    "Andy Merskin <docmars@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "angular": "~1.4.7",
+    "angular-ui-router": "~0.2.15",
+    "gsap": "~1.18.0",
+    "lodash": "~3.10.1"
+  }
+}
